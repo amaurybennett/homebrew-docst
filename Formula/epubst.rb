@@ -1,2 +1,0 @@
-class Epubst < Formula
-end
