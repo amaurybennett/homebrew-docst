@@ -1,0 +1,2 @@
+class Docst < Formula
+end
